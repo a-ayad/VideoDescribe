@@ -1,0 +1,16 @@
+# Core ML/AI
+torch
+transformers
+accelerate
+sentencepiece
+
+# Video/Audio processing
+openai-whisper
+librosa
+
+# Web UI
+streamlit
+
+# Utilities
+numpy
+tqdm
